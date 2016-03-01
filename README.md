@@ -1,3 +1,5 @@
+# Easier usage version: https://github.com/Inari-Whitebear/SimpleXNBDemapper
+
 * Install XNA Game Studio
 * Download xTile Engine from http://tide.codeplex.com/releases
 * Place the dlls into ./XNBDemapper/XNBDemapper/ and ./XNBDemapper/XNBDemapperContent/
